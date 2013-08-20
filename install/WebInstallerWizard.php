@@ -54,7 +54,7 @@ abstract class WebInstallerWizard {
             return;
         }
 
-        //TODO: task success HTML outputer
+        //TODO: task success HTML output
     }
 
     /**

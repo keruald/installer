@@ -31,7 +31,7 @@ class InstallerScenarioResult extends SplEnum {
     const OK = 1;
 
     /**
-     * The scenario requirements aren't satisfied
+     * The scenario requirements aren't satisfied.
      */
     const RequirementsFailure = 2;
 
