@@ -1,21 +1,16 @@
 <?php
 
 /**
- * Settings: a settings page class
+ * The settings page class.
  *
- * Zed. The immensity of stars. The HyperShip. The people.
- * 
- * (c) 2010, Dereckson, some rights reserved.
+ * (c) 2013, Keruald Project, some rights reserved.
  * Released under BSD license.
  *
- * @package     Zed
+ * @package     Keruald
  * @subpackage  Settings
  * @author      Sébastien Santoro aka Dereckson <dereckson@espace-win.org>
- * @copyright   2010 Sébastien Santoro aka Dereckson
+ * @copyright   2013 Keruald Project
  * @license     http://www.opensource.org/licenses/bsd-license.php BSD
- * @version     0.1
- * @link        http://scherzo.dereckson.be/doc/zed
- * @link        http://zed.dereckson.be/
  * @filesource
  */
 
